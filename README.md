@@ -1,1 +1,1 @@
-# Implementation of a TCP/IP server in C++
+# Chat bot on C++
